@@ -2,7 +2,7 @@
  * MainActivity Class.
  */
 
-package com.shibaty.lteswitcher;
+package org.shibaty.lteswitcher;
 
 import android.app.Activity;
 import android.content.Intent;
